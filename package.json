@@ -1,0 +1,16 @@
+{
+  "name": "tattoo-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "casperjs": "^1.1.4",
+    "mysql": "^2.15.0"
+  }
+}
